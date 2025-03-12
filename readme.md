@@ -32,7 +32,6 @@ Le fichier JSON `pays.json` doit contenir des informations sur les pays et leurs
       "nom": "Albanie",
       "capitale": "Tirana"
     },
-    ...
   ]
 }
 ```
