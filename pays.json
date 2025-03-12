@@ -1,0 +1,308 @@
+{
+  "pays": [
+    {
+      "nom": "Afghanistan",
+      "capitale": "Kaboul"
+    },
+    {
+      "nom": "Afrique du Sud",
+      "capitale": "Pretoria, Le Cap, Bloemfontein"
+    },
+    {
+      "nom": "Albanie",
+      "capitale": "Tirana"
+    },
+    {
+      "nom": "Algérie",
+      "capitale": "Alger"
+    },
+    {
+      "nom": "Allemagne",
+      "capitale": "Berlin"
+    },
+    {
+      "nom": "Andorre",
+      "capitale": "Andorre-la-Vieille"
+    },
+    {
+      "nom": "Angola",
+      "capitale": "Luanda"
+    },
+    {
+      "nom": "Antigua-et-Barbuda",
+      "capitale": "Saint John's"
+    },
+    {
+      "nom": "Arabie saoudite",
+      "capitale": "Riyad"
+    },
+    {
+      "nom": "Argentine",
+      "capitale": "Buenos Aires"
+    },
+    {
+      "nom": "Arménie",
+      "capitale": "Erevan"
+    },
+    {
+      "nom": "Australie",
+      "capitale": "Canberra"
+    },
+    {
+      "nom": "Autriche",
+      "capitale": "Vienne"
+    },
+    {
+      "nom": "Azerbaïdjan",
+      "capitale": "Bakou"
+    },
+    {
+      "nom": "Bahamas",
+      "capitale": "Nassau"
+    },
+    {
+      "nom": "Bahreïn",
+      "capitale": "Manama"
+    },
+    {
+      "nom": "Bangladesh",
+      "capitale": "Dacca"
+    },
+    {
+      "nom": "Barbade",
+      "capitale": "Bridgetown"
+    },
+    {
+      "nom": "Belgique",
+      "capitale": "Bruxelles"
+    },
+    {
+      "nom": "Belize",
+      "capitale": "Belmopan"
+    },
+    {
+      "nom": "Bénin",
+      "capitale": "Porto-Novo"
+    },
+    {
+      "nom": "Bhoutan",
+      "capitale": "Thimphou"
+    },
+    {
+      "nom": "Biélorussie",
+      "capitale": "Minsk"
+    },
+    {
+      "nom": "Birmanie",
+      "capitale": "Naypyidaw"
+    },
+    {
+      "nom": "Bolivie",
+      "capitale": "Sucre, La Paz"
+    },
+    {
+      "nom": "Bosnie-Herzégovine",
+      "capitale": "Sarajevo"
+    },
+    {
+      "nom": "Botswana",
+      "capitale": "Gaborone"
+    },
+    {
+      "nom": "Brésil",
+      "capitale": "Brasilia"
+    },
+    {
+      "nom": "Brunei",
+      "capitale": "Bandar Seri Begawan"
+    },
+    {
+      "nom": "Bulgarie",
+      "capitale": "Sofia"
+    },
+    {
+      "nom": "Burkina Faso",
+      "capitale": "Ouagadougou"
+    },
+    {
+      "nom": "Burundi",
+      "capitale": "Gitega"
+    },
+    {
+      "nom": "Cambodge",
+      "capitale": "Phnom Penh"
+    },
+    {
+      "nom": "Cameroun",
+      "capitale": "Yaoundé"
+    },
+    {
+      "nom": "Canada",
+      "capitale": "Ottawa"
+    },
+    {
+      "nom": "Cap-Vert",
+      "capitale": "Praia"
+    },
+    {
+      "nom": "République centrafricaine",
+      "capitale": "Bangui"
+    },
+    {
+      "nom": "Chili",
+      "capitale": "Santiago"
+    },
+    {
+      "nom": "Chine",
+      "capitale": "Pékin"
+    },
+    {
+      "nom": "Chypre",
+      "capitale": "Nicosie"
+    },
+    {
+      "nom": "Colombie",
+      "capitale": "Bogota"
+    },
+    {
+      "nom": "Comores",
+      "capitale": "Moroni"
+    },
+    {
+      "nom": "Congo",
+      "capitale": "Brazzaville"
+    },
+    {
+      "nom": "République démocratique du Congo",
+      "capitale": "Kinshasa"
+    },
+    {
+      "nom": "Corée du Nord",
+      "capitale": "Pyongyang"
+    },
+    {
+      "nom": "Corée du Sud",
+      "capitale": "Séoul"
+    },
+    {
+      "nom": "Costa Rica",
+      "capitale": "San José"
+    },
+    {
+      "nom": "Côte d'Ivoire",
+      "capitale": "Yamoussoukro, Abidjan"
+    },
+    {
+      "nom": "Croatie",
+      "capitale": "Zagreb"
+    },
+    {
+      "nom": "Cuba",
+      "capitale": "La Havane"
+    },
+    {
+      "nom": "Danemark",
+      "capitale": "Copenhague"
+    },
+    {
+      "nom": "Djibouti",
+      "capitale": "Djibouti"
+    },
+    {
+      "nom": "République dominicaine",
+      "capitale": "Saint-Domingue"
+    },
+    {
+      "nom": "Dominique",
+      "capitale": "Roseau"
+    },
+    {
+      "nom": "Égypte",
+      "capitale": "Le Caire"
+    },
+    {
+      "nom": "Émirats arabes unis",
+      "capitale": "Abou Dabi"
+    },
+    {
+      "nom": "Équateur",
+      "capitale": "Quito"
+    },
+    {
+      "nom": "Érythrée",
+      "capitale": "Asmara"
+    },
+    {
+      "nom": "Espagne",
+      "capitale": "Madrid"
+    },
+    {
+      "nom": "Estonie",
+      "capitale": "Tallinn"
+    },
+    {
+      "nom": "Eswatini",
+      "capitale": "Mbabane, Lobamba"
+    },
+    {
+      "nom": "États-Unis",
+      "capitale": "Washington, D.C."
+    },
+    {
+      "nom": "Éthiopie",
+      "capitale": "Addis-Abeba"
+    },
+    {
+      "nom": "Fidji",
+      "capitale": "Suva"
+    },
+    {
+      "nom": "Finlande",
+      "capitale": "Helsinki"
+    },
+    {
+      "nom": "France",
+      "capitale": "Paris"
+    },
+    {
+      "nom": "Gabon",
+      "capitale": "Libreville"
+    },
+    {
+      "nom": "Gambie",
+      "capitale": "Banjul"
+    },
+    {
+      "nom": "Géorgie",
+      "capitale": "Tbilissi"
+    },
+    {
+      "nom": "Ghana",
+      "capitale": "Accra"
+    },
+    {
+      "nom": "Grèce",
+      "capitale": "Athènes"
+    },
+    {
+      "nom": "Grenade",
+      "capitale": "Saint-Georges"
+    },
+    {
+      "nom": "Guatemala",
+      "capitale": "Guatemala"
+    },
+    {
+      "nom": "Guinée",
+      "capitale": "Conakry"
+    },
+    {
+      "nom": "Guinée-Bissau",
+      "capitale": "Bissau"
+    },
+    {
+      "nom": "Guinée équatoriale",
+      "capitale": "Malabo"
+    }
+  ]
+}
